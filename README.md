@@ -1,6 +1,6 @@
 # Gatsby-First
 
-#####The unfinished masterpiece
+##### The unfinished masterpiece
 _____________________
 Managed to complete 7.5 of the 9 steps in Wes Bos' inaugural "Build A Gatsby.js Site from Scratch in One Day" workshop.
 
